@@ -8,10 +8,10 @@ The application was designed to help service workers manage cabin reservations a
 The prototype demonstrates both user and administrator workflows, including role-specific login screens, clickable navigation, simulated forms, and interactive application features.
 
 ## Key Features
-User and Administrator Login: Separate, simulated login experiences for service workers and administrators.
-Role-Based Workflows: Distinct interactive workflows demonstrating how users and administrators navigate and interact with the application.
-Cabin Reservation Management: Interactive reservation forms and workflows for managing cabin bookings.
-Maintenance Request Management: Interactive forms and workflows for handling cabin maintenance orders.
+User and Administrator Login: Separate, simulated login experiences for service workers and administrators.\
+Role-Based Workflows: Distinct interactive workflows demonstrating how users and administrators navigate and interact with the application.\
+Cabin Reservation Management: Interactive reservation forms and workflows for managing cabin bookings.\
+Maintenance Request Management: Interactive forms and workflows for handling cabin maintenance orders.\
 Interactive Navigation: Clickable screens, buttons, and navigation paths that simulate how the application would function.
 
 ### Tools & Skills
@@ -23,4 +23,5 @@ Justinmind · Interactive Prototyping · UX/UI Design · Wireframing · User Flo
 
 ## Project Status
 
-**Completed academic interactive prototype.** The application demonstrates proposed workflows and functionality; it is not a deployed production system.
+**Completed academic interactive prototype.** \
+The application demonstrates proposed workflows and functionality; it is not a deployed production system.
