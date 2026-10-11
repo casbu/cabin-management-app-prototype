@@ -16,4 +16,4 @@ Employee Portal
 ### Tools
 Justinmind - Prototyping & Wireframing
 
-![Watch the Demo](/snapshots/)
+![Watch the Demo](/images/coseca-app-img.png)(https://vimeo.com/1234855807?fl=tl&fe=ec)
