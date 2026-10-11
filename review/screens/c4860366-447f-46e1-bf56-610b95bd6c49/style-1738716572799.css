@@ -1,0 +1,77 @@
+#s-c4860366-447f-46e1-bf56-610b95bd6c49 > #backgroundBox {
+  background-color: #3A4A22;
+  position: absolute;
+}
+#s-c4860366-447f-46e1-bf56-610b95bd6c49 > #alignmentBox {
+  position: relative;
+  max-width: 430.0px;
+  max-height: 932.0px;
+  width: 100%;
+  height: 100%;
+}
+#s-c4860366-447f-46e1-bf56-610b95bd6c49 #s-Text_1 {
+  position: absolute;
+  width: auto;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Cherry Bomb One_9.0.0_google',Arial;
+}
+#s-c4860366-447f-46e1-bf56-610b95bd6c49 #s-Text_1 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-c4860366-447f-46e1-bf56-610b95bd6c49 #s-Text_1 .valign {
+  vertical-align: top;
+  text-align: center;
+}
+#s-c4860366-447f-46e1-bf56-610b95bd6c49 #s-Text_1 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Cherry Bomb One_9.0.0_google',Arial;
+  font-size: 27.0pt;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+#s-c4860366-447f-46e1-bf56-610b95bd6c49 #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-family: 'Cherry Bomb One_9.0.0_google',Arial;
+  font-size: 27.0pt;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+#s-c4860366-447f-46e1-bf56-610b95bd6c49 #s-Image_1 {
+  position: absolute;
+  width: 127.0px;
+  height: 127.00000000000017px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-c4860366-447f-46e1-bf56-610b95bd6c49 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
