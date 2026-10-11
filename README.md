@@ -16,6 +16,4 @@ Employee Portal
 ### Tools
 Justinmind - Prototyping & Wireframing
 
-![Video Presentation](https://drive.google.com/file/d/1CiRf5nShbezp9zq7smkI4ecRZEmzuwyW/view?usp=drive_link)
-
-Preview Link: https://cloud.justinmind.com/usernote/prototype/269d30500a973aee6c778dbcd49a7f39884a1f49a174782e61cf0b5b904b25c6
+![Video Presentation]("https://drive.google.com/file/d/1CiRf5nShbezp9zq7smkI4ecRZEmzuwyW/view?usp=drive_link")
